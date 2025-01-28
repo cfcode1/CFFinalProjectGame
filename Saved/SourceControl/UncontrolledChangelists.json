@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/chloe/Documents/Unreal Projects/CFFinalProjectGame/Content/assets/arena.uasset",
+				"/Users/chloe/Documents/Unreal Projects/CFFinalProjectGame/Content/assets/character.uasset",
+				"/Users/chloe/Documents/Unreal Projects/CFFinalProjectGame/Content/assets/controller.uasset",
+				"/Users/chloe/Documents/Unreal Projects/CFFinalProjectGame/Content/NewMap.umap",
+				"/Users/chloe/projects/CFFinalProjectGame/Content/assets/character.uasset",
+				"/Users/chloe/projects/CFFinalProjectGame/Content/assets/playerprojectile.uasset",
+				"/Users/chloe/projects/CFFinalProjectGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"/Users/chloe/projects/CFFinalProjectGame/Content/NewMap.umap",
+				"/Users/Shared/Epic Games/UE_5.5/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"/Users/chloe/projects/CFFinalProjectGame/Content/assets/color.uasset",
+				"/Users/chloe/projects/CFFinalProjectGame/Content/assets/Actor2_Blueprint.uasset",
+				"/Users/chloe/projects/CFFinalProjectGame/Content/assets/material.uasset",
+				"/Users/chloe/Documents/Unreal Projects/CFFinalProjectGame/Content/assets/playerprog.uasset",
+				"/Users/chloe/Documents/Unreal Projects/CFFinalProjectGame/Content/assets/playerprojectile.uasset"
+			]
+		}
+	]
+}
